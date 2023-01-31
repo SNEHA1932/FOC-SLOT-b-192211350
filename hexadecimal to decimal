@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main() 
+{
+int n;
+
+printf("Enter the decimal value: ");
+scanf("%x",&n); 
+printf("The hex value is; %d",n);
+ return 0;
+
+}
